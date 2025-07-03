@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+logs/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor & IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build & temp
+dist/
+build/
+tmp/
+temp/
+*.tmp
+
+# Coverage & test output
+coverage/
+.nyc_output/
+
+# MongoDB dump (jika ada)
+dump/
+
+# PM2 process logs (opsional jika pakai PM2)
+pids/
+*.pid
+*.seed
+
+# Debug
+*.swp
+*.swo
