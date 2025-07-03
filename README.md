@@ -1,4 +1,4 @@
-# Belajar Blockchain
+# Learn Blockchain with JavaScript
 
 ```json
 [
